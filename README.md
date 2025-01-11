@@ -1,4 +1,4 @@
-```mermaid
+mermaid
 sequenceDiagram
 participant Attacker->>Command to iniate attack 
 participant BotNet->>WebServer: send multiple request 
